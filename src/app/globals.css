@@ -3,9 +3,12 @@
 @tailwind utilities;
 
 body {
-  background-color: white;
+  background-color: #2a303c;
 }
 
 .pColor {
   background-color: #ff3811 !important;
+}
+.pText {
+  color: #ff3811 !important;
 }
